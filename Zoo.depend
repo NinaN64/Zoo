@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1652191822 source:c:\users\nina\documents\game projects\zoo\src\gamemanager.cpp
+	"GameManager.h"
+	<iostream>
+
+1652173201 c:\users\nina\documents\game projects\zoo\include\gamemanager.h
+	"Player.h"
+
+1652191636 source:c:\users\nina\documents\game projects\zoo\main.cpp
+	<iostream>
+	"Player.h"
+	"MonkeyPlayer.h"
+	"HumanPlayer.h"
+	"ElephantPlayer.h"
+	"DonkeyPlayer.h"
+	"GameManager.h"
+
+1652182589 source:c:\users\nina\documents\game projects\zoo\src\player.cpp
+	"Player.h"
+
+1652182518 c:\users\nina\documents\game projects\zoo\include\player.h
+	<string>
+
+1652182292 source:c:\users\nina\documents\game projects\zoo\src\monkeyplayer.cpp
+	"MonkeyPlayer.h"
+	<string>
+	<ctime>
+
+1652181735 c:\users\nina\documents\game projects\zoo\include\monkeyplayer.h
+	<string>
+	<Player.h>
+
+1652181731 c:\users\nina\documents\game projects\zoo\include\humanplayer.h
+	<Player.h>
+
+1652181731 c:\users\nina\documents\game projects\zoo\include\elephantplayer.h
+	<string>
+	<Player.h>
+
+1652181731 c:\users\nina\documents\game projects\zoo\include\donkeyplayer.h
+	<string>
+	<Player.h>
+
+1652182344 source:c:\users\nina\documents\game projects\zoo\src\elephantplayer.cpp
+	"ElephantPlayer.h"
+	<ctime>
+
+1652179026 source:c:\users\nina\documents\game projects\zoo\src\donkeyplayer.cpp
+	"DonkeyPlayer.h"
+
+1652191536 source:c:\users\nina\documents\game projects\zoo\src\humanplayer.cpp
+	"HumanPlayer.h"
+	<string>
+	<iostream>
+
